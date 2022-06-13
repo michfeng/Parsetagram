@@ -1,0 +1,19 @@
+package com.codepath.michfeng.parsetagram;
+
+import android.app.Application;
+
+import com.parse.Parse;
+
+public class ParseApplication extends Application {
+    @Override
+    public void onCreate() {
+        super.onCreate();
+
+        Parse.initialize(new Parse.Configuration.Builder(this)
+                .applicationId("sRWg3HB1JvKhP0Y67fdOSQ7WhHUfdj0hWWDTW5R3")
+                .clientKey("sSSm3KqdwCfPjeF3aRfe298lAwire5MMthEsfBIf")
+                .server("https://parseapi.back4app.com")
+                .build()
+        );
+    }
+}
