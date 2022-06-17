@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../Library/Android/sdk/platforms/android-32/android.jar!/res/layout/splash_screen_view.xml" value="0.24954710144927536" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/splash_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.21822916666666667" />
+        <entry key="app/src/main/res/layout/activity_feed.xml" value="0.10612968591691996" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.23007246376811594" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22023448114809785" />
+        <entry key="app/src/main/res/layout/item_post.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/fileprovider.xml" value="0.1" />
       </map>
     </option>
   </component>
